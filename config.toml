@@ -1,1 +1,3 @@
+baseURL = "https://chrismckeesmith.github.io/my-hugo-site/"
+title = "My Hugo Site"
 theme = "PaperMod"
